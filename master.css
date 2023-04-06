@@ -1,0 +1,42 @@
+.title{
+ background-color: #000000;
+ color: #ffffff;
+ padding: 30px;
+ text-align: center;
+}
+
+.planets{
+ margin-top: 20px;
+ margin-left: 30px;
+ color: #ffffff;
+ display: inline-block;
+}
+
+
+.extra{
+ margin-top: 10px;
+}
+
+.button{
+ width: 70px;
+ height: 70px;
+}
+
+.s{
+ background-color: #ffffff;
+ width: 30px;
+ display: inline-block;
+}
+
+.theDiv{
+ display: inline-block;
+}
+
+hr {
+ width : 50%;
+ align-self: center;
+}
+
+.text{
+ padding-left: 25px;
+}
